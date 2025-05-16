@@ -1,0 +1,245 @@
+[
+   {
+      "name": "slerf",
+      "price": {
+         "open": "0.5",
+         "close": "1.4"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "neiroeth",
+      "price": {
+         "open": "0.2",
+         "close": "0.06"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "fwog",
+      "price": {
+         "open": "0.6",
+         "close": "0.7"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "chillguy",
+      "price": {
+         "open": "0.04",
+         "close": "0.7"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "1000floki",
+      "price": {
+         "open": "0.04",
+         "close": "0.03"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "siren",
+      "price": {
+         "open": "0.08",
+         "close": "0.03"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "goat",
+      "price": {
+         "open": "0.6",
+         "close": "1.3"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "ponke",
+      "price": {
+         "open": "0.3",
+         "close": "0.7"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "doge",
+      "price": {
+         "open": "0.4",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "1000apu",
+      "price": {
+         "open": "0.4",
+         "close": "0.8"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "melania",
+      "price": {
+         "open": "4.2",
+         "close": "14.4"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "pnut",
+      "price": {
+         "open": "0.3",
+         "close": "2.5"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "moodeng",
+      "price": {
+         "open": "0.2",
+         "close": "0.06"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "popcat",
+      "price": {
+         "open": "0.3",
+         "close": "0.7"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "1000neirocto",
+      "price": {
+         "open": "0.3",
+         "close": "1.9"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "10000wen",
+      "price": {
+         "open": "0.8",
+         "close": "1.2"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "spx",
+      "price": {
+         "open": "0.8",
+         "close": "0.4"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "1000000mog",
+      "price": {
+         "open": "0.5",
+         "close": "2.4"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "wif",
+      "price": {
+         "open": "0.24",
+         "close": "0.5"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "fartcoin",
+      "price": {
+         "open": "0.8",
+         "close": "2.7"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "cheems1000000",
+      "price": {
+         "open": "0.7",
+         "close": "1.2"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "1000toshi",
+      "price": {
+         "open": "0.3",
+         "close": "0.1"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "form",
+      "price": {
+         "open": "1.6",
+         "close": "2.8"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+   {
+      "name": "vvu",
+      "price": {
+         "open": "17",
+         "close": "2.2"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "1000turbo",
+      "price": {
+         "open": "0.4",
+         "close": "1.5"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "trump",
+      "price": {
+         "open": "27",
+         "close": "83"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+   {
+      "name": "clanker",
+      "price": {
+         "open": "40",
+         "close": "27"
+      },
+      "move": "🟥",
+      "category": "meme"
+   }
+]
