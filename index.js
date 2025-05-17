@@ -112,6 +112,45 @@ document.addEventListener('click', (event) => {
          }
       })
    }
+   
+   if (targ.closest('[data-sort="search"]')) {
+
+      const shadow = document.querySelector('[data-shadow]')
+      shadow.classList.remove('_active')
+
+      document.querySelector('[data-burger]').classList.remove('_active')
+
+      const category = document.querySelector('[data-body]').getAttribute('data-body')
+      const userInput = prompt('введи часть названия').toLowerCase()
+
+      if (!userInput) return alert('пусто')
+
+      fetch(`json/${category}.json`)
+         .then(res => res.json())
+         .then(data => {
+            const filteredData = data.filter(elem =>
+               elem.category === category && elem.name.toLowerCase().includes(userInput)
+            )
+
+            // сортировка по алфавиту
+            filteredData.sort((a, b) => a.name.localeCompare(b.name))
+
+            filteredData.forEach(elem => {
+               if (elem.name && elem.price) {
+                  document.querySelector('[data-body]').insertAdjacentHTML('afterbegin', `
+               <div data-point data-name="${elem.name}">
+                  <div data-img><img src="img/${category}/${elem.name}.jpg" alt="${elem.name}"></div>
+                  <div data-info>
+                     <div data-move>${elem.move}</div>
+                     <div data-text>${elem.price.open}-${elem.price.close}</div>
+                  </div>
+               </div>
+            `)
+               }
+            })
+         })
+         .catch(err => console.error('ошибка:', err))
+   }
 
 
    if (targ.closest('[data-sort="price-open"]')) {
