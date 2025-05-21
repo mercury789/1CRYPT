@@ -1,0 +1,497 @@
+[
+{
+      "name": "10000elon",
+      "price": {
+         "open": "0.002",
+         "close": "0.001"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "vr",
+      "price": {
+         "open": "0.01",
+         "close": "0.003"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "mvl",
+      "price": {
+         "open": "0.006",
+         "close": "0.003"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "dood",
+      "price": {
+         "open": "0.007",
+         "close": "0.004"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "1000mumu",
+      "price": {
+         "open": "0.006",
+         "close": "0.1"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "bananas31",
+      "price": {
+         "open": "0.005",
+         "close": "0.006"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "1000cat",
+      "price": {
+         "open": "0.09",
+         "close": "0.006"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "cook",
+      "price": {
+         "open": "0.02",
+         "close": "0.006"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "dark",
+      "price": {
+         "open": "0.03",
+         "close": "0.01"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "rfc",
+      "price": {
+         "open": "0.1",
+         "close": "0.009"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "10000qubic",
+      "price": {
+         "open": "0.02",
+         "close": "0.006"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "obt",
+      "price": {
+         "open": "0.012",
+         "close": "0.015"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "fio",
+      "price": {
+         "open": "0.03",
+         "close": "0.06"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "rex",
+      "price": {
+         "open": "0.04",
+         "close": "0.04"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "gork",
+      "price": {
+         "open": "0.07",
+         "close": "0.02"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "gps",
+      "price": {
+         "open": "0.1",
+         "close": "0.001"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "tut",
+      "price": {
+         "open": "0.02",
+         "close": "0.06"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "alu",
+      "price": {
+         "open": "0.1",
+         "close": "0.003"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "broccoli",
+      "price": {
+         "open": "0.1",
+         "close": "0.01"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "jellyjelly",
+      "price": {
+         "open": "0.2",
+         "close": "0.03"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "mubarak",
+      "price": {
+         "open": "0.1",
+         "close": "0.02"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "br",
+      "price": {
+         "open": "0.2",
+         "close": "0.03"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "michi",
+      "price": {
+         "open": "0.02",
+         "close": "0.01"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "skyai",
+      "price": {
+         "open": "0.05",
+         "close": "0.09"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "bank",
+      "price": {
+         "open": "0.05",
+         "close": "0.08"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "pump",
+      "price": {
+         "open": "0.04",
+         "close": "0.2"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "hpos10i",
+      "price": {
+         "open": "0.09",
+         "close": "0.05"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "hpos10i",
+      "price": {
+         "open": "0.3",
+         "close": "0.07"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "fwogu",
+      "price": {
+         "open": "0.6",
+         "close": "0.03"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "flock",
+      "price": {
+         "open": "0.3",
+         "close": "0.06"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "milk",
+      "price": {
+         "open": "0.2",
+         "close": "0.07"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "fida",
+      "price": {
+         "open": "0.3",
+         "close": "0.4"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "bmt",
+      "price": {
+         "open": "0.08",
+         "close": "0.3"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "fhe",
+      "price": {
+         "open": "0.06",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "stou",
+      "price": {
+         "open": "0.1",
+         "close": "0.2"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "elx",
+      "price": {
+         "open": "0.5",
+         "close": "0.08"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "haedal",
+      "price": {
+         "open": "0.08",
+         "close": "0.2"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+{
+      "name": "peaq",
+      "price": {
+         "open": "0.2",
+         "close": "0.7"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "cpool",
+      "price": {
+         "open": "0.2",
+         "close": "0.2"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "siren",
+      "price": {
+         "open": "0.07",
+         "close": "0.2"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "obol",
+      "price": {
+         "open": "0.3",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+{
+      "name": "seraph",
+      "price": {
+         "open": "0.1",
+         "close": "0.2"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "roam",
+      "price": {
+         "open": "0.3",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "shell",
+      "price": {
+         "open": "0.5",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "vic",
+      "price": {
+         "open": "0.3",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "launchcoin",
+      "price": {
+         "open": "0.2",
+         "close": "0.2"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "ns",
+      "price": {
+         "open": "0.1",
+         "close": "0.4"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "prompt",
+      "price": {
+         "open": "0.2",
+         "close": "0.6"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "xter",
+      "price": {
+         "open": "0.2",
+         "close": "0.3"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "fb",
+      "price": {
+         "open": "13",
+         "close": "3.8"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "pyr",
+      "price": {
+         "open": "2.7",
+         "close": "4.5"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "epic",
+      "price": {
+         "open": "1.5",
+         "close": "1.1"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "vvv",
+      "price": {
+         "open": "15",
+         "close": "2.2"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   },
+   {
+      "name": "mln",
+      "price": {
+         "open": "9",
+         "close": "10"
+      },
+      "move": "🟩",
+      "category": "innovation"
+   },
+   {
+      "name": "clanker",
+      "price": {
+         "open": "46",
+         "close": "46"
+      },
+      "move": "🟥",
+      "category": "innovation"
+   }
+]

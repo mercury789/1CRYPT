@@ -1,4 +1,274 @@
 [
+{
+      "name": "dogs",
+      "price": {
+         "open": "0.002",
+         "close": "0.0004"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "10000why",
+      "price": {
+         "open": "0.002",
+         "close": "0.004"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "10000sats",
+      "price": {
+         "open": "0.002",
+         "close": "0.009"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "10000ladys",
+      "price": {
+         "open": "0.001",
+         "close": "0.004"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "10000elon",
+      "price": {
+         "open": "0.002",
+         "close": "0.001"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "1000000babydoge",
+      "price": {
+         "open": "0.001",
+         "close": "0.006"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "bome",
+      "price": {
+         "open": "0.02",
+         "close": "0.003"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "meme",
+      "price": {
+         "open": "0.02",
+         "close": "0.05"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "foxy",
+      "price": {
+         "open": "0.02",
+         "close": "0.03"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "hippo",
+      "price": {
+         "open": "0.02",
+         "close": "0.004"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "mew",
+      "price": {
+         "open": "0.005",
+         "close": "0.01"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "dog",
+      "price": {
+         "open": "0.009",
+         "close": "0.001"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "1000mumu",
+      "price": {
+         "open": "0.004",
+         "close": "0.01"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "bananas31",
+      "price": {
+         "open": "0.005",
+         "close": "0.006"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "degen",
+      "price": {
+         "open": "0.04",
+         "close": "0.006"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "xvg",
+      "price": {
+         "open": "0.008",
+         "close": "0.002"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "10000coq",
+      "price": {
+         "open": "0.05",
+         "close": "0.01"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "broccoli",
+      "price": {
+         "open": "0.1",
+         "close": "0.01"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "zerebro",
+      "price": {
+         "open": "0.4",
+         "close": "0.02"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "tstbsc",
+      "price": {
+         "open": "0.07",
+         "close": "0.3"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "tstbsc",
+      "price": {
+         "open": "0.4",
+         "close": "0.05"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "mubarak",
+      "price": {
+         "open": "0.1",
+         "close": "0.02"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "michi",
+      "price": {
+         "open": "0.08",
+         "close": "0.01"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "act",
+      "price": {
+         "open": "0.3",
+         "close": "0.9"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "ban",
+      "price": {
+         "open": "0.3",
+         "close": "0.04"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "avaai",
+      "price": {
+         "open": "0.1",
+         "close": "0.3"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "brett",
+      "price": {
+         "open": "0.03",
+         "close": "0.2"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "sundog",
+      "price": {
+         "open": "0.2",
+         "close": "0.3"
+      },
+      "move": "🟩",
+      "category": "meme"
+   },
+{
+      "name": "hpos10i",
+      "price": {
+         "open": "0.3",
+         "close": "0.1"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
+{
+      "name": "1000x",
+      "price": {
+         "open": "0.03",
+         "close": "0.6"
+      },
+      "move": "🟥",
+      "category": "meme"
+   },
    {
       "name": "slerf",
       "price": {
